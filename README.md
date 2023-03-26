@@ -9,3 +9,4 @@ https://github.com/Taka0007/StableDiffusion/blob/main/code-and-image/%E5%A4%AA%E
 
 A cook destroys a meteorite with his fist<br>
 隕石を拳で破壊する料理人<br>
+https://github.com/Taka0007/StableDiffusion/blob/main/code-and-image/destoryinsekidook.ipynb
